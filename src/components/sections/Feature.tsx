@@ -2,7 +2,7 @@ import teamSvg from "../../assets/team.svg";
 
 const Feature = () => {
   return (
-    <div className="bg-[#FAFAFA] h-screen pt-20">
+    <div className="bg-[#FAFAFA] h-auto w-full py-20 md:py-40">
       <div className="flex flex-col items-center justify-center ">
         <div className="max-w-xl mb-10 p-5 sm:p-0 md:mx-auto text-center lg:max-w-2xl md:mb-12">
           <div className=" flex flex-col justify-center items-center">
@@ -17,7 +17,7 @@ const Feature = () => {
         </div>
         <img
           src={teamSvg}
-          className="w-full max-w-screen-sm mx-auto "
+          className="max-w-screen-sm mx-auto md:w-full"
           alt="subhero"
         />
       </div>

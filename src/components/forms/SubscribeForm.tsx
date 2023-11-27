@@ -14,14 +14,14 @@ const SubscribeForm = () => {
   };
 
   return (
-    <div className="bg-white h-auto w-full pb-10 md:pb-20">
-      <div className="flex flex-col items-center justify-center px-4 pt-16 mx-auto sm:max-w-xl md:max-w-full lg:pt-24 md:px-0">
+    <div className="bg-white h-auto w-full py-20 md:py-40">
+      <div className="flex flex-col items-center justify-center px-4 mx-auto sm:max-w-xl md:max-w-full md:px-0">
         <div className="max-w-xl mb-2 p-5 sm:p-0 md:mx-auto text-center lg:max-w-2xl md:mb-6">
           <div className=" flex flex-col justify-center items-center">
             <p className="text-5xl font-medium">
               Discover the power of knowledge.
             </p>
-            <p className="max-w-sm text-md pt-4">
+            <p className="max-w-sm text-md md:text-lg pt-4">
               Subscribe to our newsletter and receive valuable resources,
               articles, and educational content directly to your inbox.
             </p>

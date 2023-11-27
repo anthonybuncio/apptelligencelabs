@@ -1,6 +1,6 @@
 const Apps = () => {
   return (
-    <div className="bg-[#F5F6F7]  pt-20">
+    <div className="bg-[#F5F6F7] pt-20">
       <div className="flex flex-col items-center justify-center ">
         <div className="max-w-4xl mb-10 md:mx-auto text-center md:mb-12">
           <div className=" flex flex-col justify-center items-center">

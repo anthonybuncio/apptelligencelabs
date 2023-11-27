@@ -26,16 +26,14 @@ const ContactForm = () => {
 
   return (
     <section className="min-h-screen w-full bg-white text-black">
-      <div className="container flex flex-col min-h-screen max-w-6xl px-6 py-12 mx-auto">
+      <div className="container flex flex-col min-h-screen max-w-6xl px-6 mx-auto">
         <div className="flex-1 lg:flex lg:items-center lg:-mx-6">
-          <div className=" lg:w-1/2 lg:mx-6">
-            <h1 className="text-2xl text-center sm:text-left font-semibold capitalize lg:text-3xl">
+          <div className="lg:w-1/2 lg:mx-6 py-12">
+            <h1 className="text-2xl font-semibold capitalize lg:text-3xl">
               Get a quote
             </h1>
 
-            <p className="max-w-xl text-center sm:text-left mt-6">
-              We&apos;d love to hear from you!
-            </p>
+            <p className="max-w-xl mt-6">We&apos;d love to hear from you!</p>
 
             <div className="mt-6 space-y-8 md:mt-8">
               <p className="flex items-start -mx-2">
