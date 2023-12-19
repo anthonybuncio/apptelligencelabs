@@ -7,8 +7,8 @@ export default class Carousel extends Component {
     const settings = {
       infinite: true,
       slidesToShow: 1,
-      centerMode: true,
       slidesToScroll: 1,
+      centerMode: true,
       autoplay: true,
       autoplaySpeed: 3000,
       swipe: true,
@@ -21,28 +21,42 @@ export default class Carousel extends Component {
           <div className="">
             <img
               className="max-w-4xl w-full mx-auto"
-              src="https://images.unsplash.com/photo-1560472354-b33ff0c44a43?q=80&w=4688&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              src="https://images.unsplash.com/photo-1642132652860-471b4228023e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1760&q=80"
               alt="carousal"
             />
           </div>
           <div>
             <img
               className="max-w-4xl w-full mx-auto"
-              src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1760&q=80&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              src="https://images.unsplash.com/photo-1634084462412-b54873c0a56d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1760&q=80"
               alt="carousal"
             />
           </div>
           <div>
             <img
               className="max-w-4xl w-full mx-auto"
-              src="https://images.unsplash.com/photo-1522542550221-31fd19575a2d?q=80&w=5070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              src="https://images.unsplash.com/photo-1642132652809-8c6ab1971169?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1760&q=80"
               alt="carousal"
             />
           </div>
           <div>
             <img
               className="max-w-4xl w-full mx-auto"
-              src="https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              src="https://images.unsplash.com/photo-1642132652798-ae887edb9e9d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1760&q=80"
+              alt="carousal"
+            />
+          </div>
+          <div>
+            <img
+              className="max-w-4xl w-full mx-auto"
+              src="https://images.unsplash.com/photo-1642132652866-6fa262d3161f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1760&q=80"
+              alt="carousal"
+            />
+          </div>
+          <div>
+            <img
+              className="max-w-4xl w-full mx-auto"
+              src="https://images.unsplash.com/photo-1648134859196-3aa762e9440d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1760&q=80"
               alt="carousal"
             />
           </div>

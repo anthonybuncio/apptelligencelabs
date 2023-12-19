@@ -1,4 +1,5 @@
 import Title from "../components/Title";
+import ServicesGrid from "../components/sections/ServicesGrid";
 
 const Services = () => {
   return (
@@ -12,7 +13,9 @@ const Services = () => {
         linkText={""}
       />
 
-      <div className="bg-black text-white py-20 md:py-40">
+      <ServicesGrid />
+
+      {/* <div className="bg-black text-white py-20 md:py-40">
         <div className=" flex flex-col justify-center items-center max-w-8xl mx-2 md:mx-auto text-center">
           <section>
             <div className="max-w-screen-xl px-4 py-8 sm:px-6 sm:py-12 lg:px-8 lg:py-16">
@@ -215,7 +218,7 @@ const Services = () => {
             </div>
           </section>
         </div>
-      </div>
+      </div> */}
     </>
   );
 };

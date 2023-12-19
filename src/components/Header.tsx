@@ -13,22 +13,31 @@ const Header = () => {
 
         <ul className="flex items-center gap-2 text-xs sm:text-sm ">
           <li className="">
-            <a className="rounded-lg px-3 py-2" href="/">
+            <a className="rounded-lg px-3 py-2 hover:text-gray-500" href="/">
               Home
             </a>
           </li>
           <li>
-            <a className="rounded-lg px-3 py-2" href="/services">
+            <a
+              className="rounded-lg px-3 py-2 hover:text-gray-500"
+              href="/services"
+            >
               Services
             </a>
           </li>
           <li>
-            <a className="rounded-lg px-3 py-2" href="/about">
+            <a
+              className="rounded-lg px-3 py-2 hover:text-gray-500"
+              href="/about"
+            >
               About Us
             </a>
           </li>
           <li>
-            <a className="rounded-lg px-3 py-2" href="/contact">
+            <a
+              className="rounded-lg px-3 py-2 hover:text-gray-500"
+              href="/contact"
+            >
               Contact
             </a>
           </li>

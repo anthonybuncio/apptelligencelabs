@@ -15,11 +15,7 @@ const Feature = () => {
             </p>
           </div>
         </div>
-        <img
-          src={teamSvg}
-          className="max-w-screen-sm mx-auto md:w-full"
-          alt="subhero"
-        />
+        <img src={teamSvg} className="w-fit mx-auto md:w-1/2" alt="subhero" />
       </div>
     </div>
   );
