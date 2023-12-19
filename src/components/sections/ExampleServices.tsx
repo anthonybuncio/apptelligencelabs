@@ -1,4 +1,4 @@
-const Services = ({ title }) => {
+const ExampleServices = ({ title }) => {
   return (
     <div className="h-auto w-full text-white bg-black py-20 md:py-40">
       <div className="flex flex-col items-center justify-center px-4 mx-auto sm:max-w-xl md:max-w-full md:px-0">
@@ -209,4 +209,4 @@ const Services = ({ title }) => {
   );
 };
 
-export default Services;
+export default ExampleServices;

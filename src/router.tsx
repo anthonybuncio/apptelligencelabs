@@ -11,11 +11,16 @@ import Ecommerce from "./pages/services/Ecommerce";
 import Analytics from "./pages/services/Analytics";
 import Consulting from "./pages/services/Consulting";
 import Cloud from "./pages/services/Cloud";
+import Services from "./pages/Services";
 
 export const router = createBrowserRouter([
   {
     path: "/",
     element: <Home />,
+  },
+  {
+    path: "/services",
+    element: <Services />,
   },
   {
     path: "/about",

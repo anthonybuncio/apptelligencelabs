@@ -18,6 +18,11 @@ const Header = () => {
             </a>
           </li>
           <li>
+            <a className="rounded-lg px-3 py-2" href="/services">
+              Services
+            </a>
+          </li>
+          <li>
             <a className="rounded-lg px-3 py-2" href="/about">
               About Us
             </a>

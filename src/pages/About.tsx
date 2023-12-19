@@ -2,7 +2,7 @@ import Title from "../components/Title";
 import SubscribeForm from "../components/forms/SubscribeForm";
 import AboutCta from "../components/sections/AboutCta";
 import AboutDetail from "../components/sections/AboutDetail";
-import Services from "../components/sections/Services";
+import ExampleServices from "../components/sections/ExampleServices";
 
 const About = () => {
   return (
@@ -15,7 +15,7 @@ const About = () => {
         url={"/contact"}
         linkText={"Get Started"}
       />
-      <Services title={"How can we help you"} />
+      <ExampleServices title={"How can we help you"} />
       <AboutDetail />
       <AboutCta />
       <SubscribeForm />

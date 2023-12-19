@@ -2,7 +2,7 @@ import Title from "./components/Title";
 import SubscribeForm from "./components/forms/SubscribeForm";
 import Carousel from "./components/sections/Carousel";
 import Feature from "./components/sections/Feature";
-import Services from "./components/sections/Services";
+import ExampleServices from "./components/sections/ExampleServices";
 import Testimonials from "./components/sections/Testimonials";
 
 function Home() {
@@ -17,7 +17,7 @@ function Home() {
         linkText={"Learn More"}
       />
       <Carousel />
-      <Services title={"Your new favorite tool. And so much more."} />
+      <ExampleServices title={"Your new favorite tool. And so much more."} />
       <Feature />
       <Testimonials />
       <SubscribeForm />
