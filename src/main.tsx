@@ -8,8 +8,10 @@ import { router } from "./router.tsx";
 
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
   <React.StrictMode>
-    <Header />
-    <RouterProvider router={router} />
-    <Footer />
+    <div className="w-full min-h-screen flex flex-col items-stretch justify-between">
+      <Header />
+      <RouterProvider router={router} />
+      <Footer />
+    </div>
   </React.StrictMode>
 );

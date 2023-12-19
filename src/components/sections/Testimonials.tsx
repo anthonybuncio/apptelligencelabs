@@ -10,7 +10,7 @@ const Testimonials = () => {
           </div>
         </div>
         <div className="mx-auto max-w-5xl px-4 py-8">
-          <section className="rounded-lg bg-gray-900 p-8">
+          <section className="rounded-lg bg-gray-800 p-8">
             <div className="grid grid-cols-1 gap-12 sm:grid-cols-3 sm:items-center">
               <img
                 alt="Man"

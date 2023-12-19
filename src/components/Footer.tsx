@@ -64,10 +64,18 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
+                    href="/consulting"
+                    className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
+                  >
+                    IT Consulting
+                  </a>
+                </li>
+                <li>
+                  <a
                     href="/ecommerce"
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
-                    eCommerce
+                    E-Commerce
                   </a>
                 </li>
                 <li>
@@ -75,17 +83,10 @@ const Footer = () => {
                     href="/analytics"
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
-                    Data Analytics
+                    Data & Analytics
                   </a>
                 </li>
-                <li>
-                  <a
-                    href="/consulting"
-                    className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
-                  >
-                    IT Consulting
-                  </a>
-                </li>
+
                 <li>
                   <a
                     href="/cloud"

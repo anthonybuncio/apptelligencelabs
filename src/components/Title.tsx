@@ -1,8 +1,12 @@
 const Title = ({ title, subtitle, url, linkText }) => {
+  const textGradient =
+    "bg-[radial-gradient(ellipse_at_bottom_right,_var(--tw-gradient-stops))] from-gray-300 via-fuchsia-400 to-teal-800";
   return (
     <div className="bg-[#F5F6F7] py-20 md:py-40">
       <div className=" flex flex-col justify-center items-center max-w-4xl mx-2 md:mx-auto text-center">
-        <p className="pb-4 font-extrabold text-transparent text-5xl bg-clip-text bg-gradient-to-r from-green-300 to-purple-400 md:text-6xl md:max-w-4xl">
+        <p
+          className={`pb-4 font-extrabold text-transparent text-5xl bg-clip-text ${textGradient} md:text-6xl md:max-w-4xl`}
+        >
           {title}
         </p>
         <p className="max-w-sm md:max-w-2xl text-lg">{subtitle}</p>
