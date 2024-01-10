@@ -1,5 +1,3 @@
-import logo from "../assets/a-icon.png";
-
 const Footer = () => {
   return (
     <div className="bg-[#F5F5F7]">

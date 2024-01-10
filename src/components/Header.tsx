@@ -1,5 +1,3 @@
-import logo from "../assets/a-icon.png";
-
 const Header = () => {
   return (
     <header className=" sticky top-0 left-0 w-full bg-white/80 z-50 p-2">
