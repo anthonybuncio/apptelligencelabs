@@ -5,7 +5,7 @@ const Team = () => {
     <>
       <Title
         title={"Our team"}
-        subtitle={"Meet the innovators behind Apptelligence Labs"}
+        subtitle={"Meet the innovators behind Elite Labs"}
         url={""}
         linkText={""}
       />
@@ -27,9 +27,9 @@ const Team = () => {
 
               <a
                 className="text-blue-500 font-body hover:text-gray-800"
-                href="mailto:anthony@apptelligence.net"
+                href="mailto:anthony@elitelabstx.com"
               >
-                anthony@apptelligence.net
+                anthony@elitelabstx.com
               </a>
               <div className="flex mt-3 -mx-2">
                 <a
@@ -94,9 +94,9 @@ const Team = () => {
 
               <a
                 className="text-blue-500 font-body hover:text-gray-800"
-                href="mailto:pamela@apptelligence.net"
+                href="mailto:pamela@elitelabstx.com"
               >
-                pamela@apptelligence.net
+                pamela@elitelabstx.com
               </a>
               <div className="flex mt-3 -mx-2">
                 <a
@@ -160,9 +160,9 @@ const Team = () => {
               <p className="mt-2  capitalize ">UX/UI Designer</p>
               <a
                 className="text-blue-500 font-body hover:text-gray-800"
-                href="mailto:john@apptelligence.net"
+                href="mailto:john@elitelabstx.com"
               >
-                john@apptelligence.net
+                john@elitelabstx.com
               </a>
               <div className="flex mt-3 -mx-2">
                 <a

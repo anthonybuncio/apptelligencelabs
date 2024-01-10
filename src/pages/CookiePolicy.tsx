@@ -69,7 +69,7 @@ const CookiePolicy = () => {
               <h2 className="font-semibold">6. Contact Us</h2>
               <p>
                 If you have any questions about this Cookie Policy, please
-                contact us at support@apptelligence.net.
+                contact us at support@elitelabstx.com.
               </p>
             </div>
           </div>

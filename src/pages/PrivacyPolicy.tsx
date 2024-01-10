@@ -11,20 +11,19 @@ const PrivacyPolicy = () => {
               <p>Last Updated: 6/29/23</p>
               <br />
               <p>
-                This Privacy Policy governs the manner in which Apptelligence
-                Labs (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;)
-                collects, uses, maintains, and discloses information collected
-                from users (referred to as &quot;you&quot; or &quot;your&quot;)
-                of the{" "}
+                This Privacy Policy governs the manner in which Elite Labs
+                (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;) collects,
+                uses, maintains, and discloses information collected from users
+                (referred to as &quot;you&quot; or &quot;your&quot;) of the{" "}
                 <a
                   href={"/"}
                   className="text-lg font-medium text-blue-500 cursor-pointer"
                 >
-                  Apptelligence Labs
+                  Elite Labs
                 </a>{" "}
                 website (referred to as the &quot;Site&quot;). This Privacy
                 Policy applies to the Site and all products and services offered
-                by [Your Company Name].
+                by Elite Labs LLC.
               </p>
               <br />
               <p className="font-semibold">1. Information We Collect</p>
@@ -138,14 +137,13 @@ const PrivacyPolicy = () => {
               <br />
               <p className="font-semibold">6. Changes to This Privacy Policy</p>
               <p>
-                Apptelligence Labs has the discretion to update this Privacy
-                Policy at any time. When we do, we will revise the updated date
-                at the bottom of this page. We encourage users to frequently
-                check this page for any changes to stay informed about how we
-                are helping to protect the personal information we collect. You
-                acknowledge and agree that it is your responsibility to review
-                this Privacy Policy periodically and become aware of
-                modifications.
+                Elite Labs has the discretion to update this Privacy Policy at
+                any time. When we do, we will revise the updated date at the
+                bottom of this page. We encourage users to frequently check this
+                page for any changes to stay informed about how we are helping
+                to protect the personal information we collect. You acknowledge
+                and agree that it is your responsibility to review this Privacy
+                Policy periodically and become aware of modifications.
               </p>
               <br />
               <p className="font-semibold">7. Your Acceptance of These Terms</p>
@@ -161,7 +159,7 @@ const PrivacyPolicy = () => {
               <p>
                 If you have any questions about this Privacy Policy, the
                 practices of this Site, or your dealings with this Site, please
-                contact us at support@apptelligence.net.
+                contact us at support@elitelabstx.com.
               </p>
             </div>
           </div>

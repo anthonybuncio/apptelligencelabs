@@ -20,7 +20,7 @@ const Testimonials = () => {
 
               <blockquote className="sm:col-span-2">
                 <p className="text-xl font-medium sm:text-2xl">
-                  &quot;Apptelligence Labs transformed our business with their
+                  &quot;Elite Labs transformed our business with their
                   cutting-edge web applications. Their scraping bots provided us
                   with valuable data insights, giving us a competitive edge in
                   the market. We highly recommend their services!&quot;

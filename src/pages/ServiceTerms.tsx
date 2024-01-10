@@ -12,10 +12,9 @@ const ServiceTerms = () => {
               <br />
               <p>
                 Please read these Terms of Service (&quot;Terms,&quot;
-                &quot;TOS&quot;) carefully before using
-                https://apptelligence.net (referred to as the &quot;Site&quot;)
-                operated by Apptelligence Labs (&quot;we,&quot; &quot;us,&quot;
-                or &quot;our&quot;).
+                &quot;TOS&quot;) carefully before using https://elitelabstx.com
+                (referred to as the &quot;Site&quot;) operated by Elite Labs
+                (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;).
               </p>
 
               <p>
@@ -28,9 +27,9 @@ const ServiceTerms = () => {
               <h2 className="font-semibold">1. Intellectual Property</h2>
               <p>
                 The Site and its original content, features, and functionality
-                are owned by Apptelligence Labs and are protected by
-                international copyright, trademark, patent, trade secret, and
-                other intellectual property or proprietary rights laws.
+                are owned by Elite Labs and are protected by international
+                copyright, trademark, patent, trade secret, and other
+                intellectual property or proprietary rights laws.
               </p>
               <br />
 
@@ -87,16 +86,15 @@ const ServiceTerms = () => {
 
               <h2 className="font-semibold">4. Limitations</h2>
               <p>
-                In no event shall Apptelligence Labs or its suppliers be liable
-                for any damages (including, without limitation, damages for loss
-                of data or profit, or due to business interruption) arising out
-                of the use or inability to use the materials on the Site, even
-                if Apptelligence Labs or a Apptelligence Labs authorized
-                representative has been notified orally or in writing of the
-                possibility of such damage. Because some jurisdictions do not
-                allow limitations on implied warranties, or limitations of
-                liability for consequential or incidental damages, these
-                limitations may not apply to you.
+                In no event shall Elite Labs or its suppliers be liable for any
+                damages (including, without limitation, damages for loss of data
+                or profit, or due to business interruption) arising out of the
+                use or inability to use the materials on the Site, even if Elite
+                Labs or a Elite Labs authorized representative has been notified
+                orally or in writing of the possibility of such damage. Because
+                some jurisdictions do not allow limitations on implied
+                warranties, or limitations of liability for consequential or
+                incidental damages, these limitations may not apply to you.
               </p>
               <br />
 
@@ -119,7 +117,7 @@ const ServiceTerms = () => {
               <h2 className="font-semibold">7. Contact Us</h2>
               <p>
                 If you have any questions about these Terms of Service, please
-                contact us at support@apptelligence.net.
+                contact us at support@elitelabstx.com.
               </p>
             </div>
           </div>
